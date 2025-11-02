@@ -1,4 +1,5 @@
 # LP3
+**
 1)Prepare test plan, Test case, Defect Report for
 Online Banking Application
 2)Host a Static Website on Cloud Storage - Test
@@ -28,4 +29,4 @@ records, and run queries.
 7)Automate Gmail/Rediffmail/Hotmail login flow
 using Selenium Web Driver.
 8)Set Up Load Balancer - Test traffic distribution
-by accessing the public IP of the Load Balancer.
+by accessing the public IP of the Load Balancer.**
