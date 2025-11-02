@@ -1,7 +1,7 @@
 # LP3
 **
 1)Prepare test plan, Test case, Defect Report for
-Online Banking Application
+Online Banking Application.\n
 2)Host a Static Website on Cloud Storage - Test
 accessing the site via public URL.
 3)Write black box test cases using ECP &amp; BVA
